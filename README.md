@@ -1,2 +1,2 @@
 # API-MERN-CRUD-Assignment
-- Simple Web App creates with MERN stack
+- Technologies used - MERN stack
